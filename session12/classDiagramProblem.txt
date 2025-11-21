@@ -1,0 +1,7 @@
+﻿Crocheters often juggle multiple projects at once: blankets, amigurumi plushies, gifts, and paid commissions. Each project has its own pattern, hook size, yarn type, color palette, and timeline. It’s easy to lose track of which yarn goes with which project, which pattern you used, or what a specific customer requested. As the number of projects grows, staying organized becomes difficult.
+
+
+This system focuses on managing crochet projects, the patterns they use, and the materials required. It allows a crocheter to store patterns, track which yarns and hooks are needed, and differentiate between personal projects and commissioned work. The application will also track customer details for commission projects, such as the customer’s name and contact info. The goal is not to simulate every tiny detail of crocheting, but to model the core objects involved in planning and organizing crochet work.
+
+
+The scope of the solution includes modeling: crocheters, yarn, hooks, crochet patterns, general crochet projects, and special commissioned projects. The design supports inheritance by allowing specific pattern types (like blankets and amigurumi) to extend a base pattern class, and it demonstrates multiple inheritance by allowing commissioned projects to inherit behavior from both a general project class and a customer-related class.
