@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>1984</title>
+        <author>George Orwell</author>
+        <year>1949</year>
+    </book>
+    <book>
+        <title>Pride and Prejudice</title>
+        <author>Jane Austen</author>
+        <year>1813</year>
+    </book>
+    <book>
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <year>1960</year>
+    </book>
+    <book>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+    </book>
+    <book>
+        <title>Moby-Dick</title>
+        <author>Herman Melville</author>
+        <year>1851</year>
+    </book>
+    <book>
+        <title>The Catcher in the Rye</title>
+        <author>J. D. Salinger</author>
+        <year>1951</year>
+    </book>
+    <book>
+        <title>Brave New World</title>
+        <author>Aldous Huxley</author>
+        <year>1932</year>
+    </book>
+    <book>
+        <title>The Hobbit</title>
+        <author>J. R. R. Tolkien</author>
+        <year>1937</year>
+    </book>
+    <book>
+        <title>Fahrenheit 451</title>
+        <author>Ray Bradbury</author>
+        <year>1953</year>
+    </book>
+    <book>
+        <title>Jane Eyre</title>
+        <author>Charlotte Brontë</author>
+        <year>1847</year>
+    </book>
+</library>
